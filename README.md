@@ -1,4 +1,5 @@
 # GetProcAddressCaseStudies
+### Written by [hypervis0r](https://github.com/hypervis0r) and [Jeff](https://github.com/0x00Jeff)
 Six cases demonstrating methods of optimizing GetProcAddress
 
 Blog post located at https://phasetw0.com/windows-internals/optimizing_function_resolving/
